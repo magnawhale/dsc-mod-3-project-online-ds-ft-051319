@@ -53,14 +53,14 @@ I would recommend that salespersons readjust their sales efforts according to th
 
 | Region | Product Categories to Market more Aggressively | Product Categories to Market Less Aggressively |
 |:----- |:-----:|:-----:|
-| British Isles | Condiments, Meat/Poultry, Produce, Seafood | Beverages, Confections, Dairy Products, Grains/Cereals |
-| Latin America | Beverages, Condiments, Dairy Products, Produce, Seafood | Confections, Grains/Cereals, Meat/Poultry |
-| North America | Beverages, Confections, Grains/Cereals, Meat/Poultry | Condiments, Dairy Products, Produce, Seafood |
-| Northeastern Europe | Beverages, Condiments, Produce, Seafood | Confections, Dairy Products, Grains/Cereals, Meat/Poultry |
-| Southern Europe | Condiments, Grains/Cereals, Meat/Poultry, Produce | Beverages, Confections, Dairy Products, Seafood |
-| Western Europe | Condiments, Confections, Dairy Products, Grains/Cereals | Beverages, Meat/Poultry, Produce, Seafood |
+| British Isles | Condiments, Meat/Poultry, Produce | Beverages, Dairy Products, Grains/Cereals |
+| Latin America | Condiments, Dairy Products, Produce, Seafood | Confections, Grains/Cereals, Meat/Poultry |
+| North America | Beverages, Confections, Grains/Cereals, Meat/Poultry | Produce |
+| Northeastern Europe | Beverages, Seafood | Confections, Dairy Products, Grains/Cereals, Meat/Poultry |
+| Southern Europe | Condiments, Grains/Cereals, Meat/Poultry | Beverages, Confections, Dairy Products, Seafood |
+| Western Europe | Condiments, Confections, Grains/Cereals | Meat/Poultry, Seafood |
 
-These lists detail which regions spend proportionately more on certain categories as compared to the population ratios (e.g. Britain spends a higher percentage of its total wallet on dairy products than the entire sample population does). This means that the listed product categories are in higher demand in the listed regions than one could normally expect, implying that it should be easier to sell more of those products (and possibly at a higher price) in those regions than others, especially when acquiring new customers.
+These lists detail which regions spend proportionately more on certain categories as compared to the population ratios (e.g. Britain spends a higher percentage of its total wallet on condiments than the sample population does). This means that the listed product categories are in higher demand in the listed regions than one could normally expect, implying that it should be easier to sell more of those products (and possibly at a higher price) in those regions than others, especially when acquiring new customers.
 
 However, this does not mean that existing sales of low-demand product-region combinations should be neglected to the point where they decrease. This study merely suggests that no additional effort be spent increasing those combinations.
 
@@ -78,6 +78,11 @@ Given the information in the table below, I recommend that salespersons focus on
 | Meat | Autumn | Summer |
 | Produce | Spring | Winter |
 | Seafood | Autumn | Winter |
+
+
+## Conclusions
+
+
 
 
 ## Future Investigation
