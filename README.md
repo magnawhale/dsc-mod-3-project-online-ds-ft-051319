@@ -37,7 +37,7 @@ Fortuitously, after testing, I was able to confidently reject all null hypothese
 
 #### Question 1:
 
-Since the mere existence of a discount (even as low as 5%) tends to increase the number of units ordered by 6, ***I  recommend applying a small discount to all products offered for sale***. Furthermore, large discounts should be avoided (unless there is a limited-time special sales event to drive interest) because they do not substantially increase units sold above the lower discount levels. The reasoning behind this phenomenon is the supposition that the presence of even a 5% discount has a psychological effect that encourages customers to buy more than they would otherwise.
+Since the mere existence of a discount (even as low as 5%) tends to increase the number of units ordered by around 6-7 units, ***I  recommend applying a small discount to all products offered for sale***. Furthermore, large discounts should be avoided (unless there is a limited-time special sales event to drive interest) because they do not substantially increase units sold above the lower discount levels. The reasoning behind this phenomenon is the supposition that the presence of even a 5% discount has a psychological effect that encourages customers to buy more than they would otherwise.
 
 #### Question 2:
 
@@ -79,6 +79,12 @@ Given the information in the table below, I recommend that salespersons focus on
 | Produce | Spring | Winter |
 | Seafood | Autumn | Winter |
 
+
+## Future Investigation
+
+Though the above recommendations should result in greater revenue for the company, there are many avenues for further potential insights. Looking at the product-by-product sales rates is likely to produce actionable information.
+
+Additionally, the most advantageous think that could be done for future study is to include more diverse data in the database. The first variables that come to mind are `ProductWeight`, `ProductDimensions`, and `UnitCost` (assuming that `UnitPrice` refers to the sales price
 
 
 ### PowerPoint Presentation
