@@ -89,7 +89,7 @@ Given the information in the table below, I recommend that salespersons focus on
 
 Though the above recommendations should result in greater revenue for the company, there are many avenues for further potential insights. Looking at the product-by-product sales rates is likely to produce actionable information.
 
-Additionally, the most advantageous think that could be done for future study is to include more diverse data in the database. The first variables that come to mind are `ProductWeight`, `ProductDimensions`, and `UnitCost` (assuming that `UnitPrice` refers to the sales price
+Additionally, the most advantageous thing that could be done for future analysis is to include more diverse data in the database. Potentially informative variables include `ProductWeight`, `ProductDimensions`, and `WholesalePrice` (assuming that `UnitPrice` refers to the customer price and not the wholesale price). With just these three additional variables, a wide range of analyses could be made regarding product profitability and how the choice of shipping company impacts sales and profit. 
 
 
 ### PowerPoint Presentation
