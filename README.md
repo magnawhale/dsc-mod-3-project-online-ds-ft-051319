@@ -82,7 +82,16 @@ Given the information in the table below, I recommend that salespersons focus on
 
 ## Conclusions
 
-
+With this rich database, there are a wide range of analyses that one can perform. According to the tests that we performed:
+* discounted products reliably sell in greater quantities than undiscounted ones
+    * yet the amount of discount is irrelevant
+* all salespersons are not created equal
+    * though reporting structure has no correlation to sales on a per-order basis, reporting structure strongly correlates to aggregate sales and revenue
+* product category demand depends heavily on regional nuances
+    * e.g. North Americans dislike produce while Northeastern Europeans love seafood
+* The seasons of the year heavily influence the demand for various product categories
+    * i.e. selling milk in the middle of summer will be difficult
+<img src='milk.gif'>
 
 
 ## Future Investigation
@@ -94,5 +103,5 @@ Additionally, the most advantageous thing that could be done for future analysis
 
 ### PowerPoint Presentation
 
-Here is a link to the [slideshow itself]().
+Here is a link to the [slideshow itself](Northwind.pptx).
 
